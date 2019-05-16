@@ -3,7 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessliki", "DataAccess\DataAccess.csproj", "{0B0A7C02-0170-4DB4-8747-475631EE721B}"
+
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{0B0A7C02-0170-4DB4-8747-475631EE721B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterMVC", "TwitterMVC\TwitterMVC.csproj", "{5C16C2DF-A137-4DDD-B893-BD19E2FA665F}"
 EndProject
